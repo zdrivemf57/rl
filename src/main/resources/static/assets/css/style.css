@@ -1,0 +1,22 @@
+@charset("utf-8");
+
+body {
+  color: rgba(0,0,0,.9);
+}
+
+.user-name {
+  margin-left: auto;
+  display: block;
+  width: 70%;
+  text-align: right;
+}
+.hero {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+.me-auto {
+  /* margin-right: auto!important; */
+  margin-right: 0!important;
+  margin-left: auto;
+}
